@@ -1,12 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Jiawei
- * Date: 2017/7/29
- * Time: 21:18
- */
-
-namespace JiaweiXS\WeApp\Api;
+namespace Dash\Wxminiapp\Api;
 
 
 class CustomMsg extends BaseApi

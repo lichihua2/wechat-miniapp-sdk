@@ -10,7 +10,7 @@ git clone git@github.com:kulokai/weapp.git
 ## 用法
 #### 1. 创建小程序对象
 ```php
-use JiaweiXS\WeApp\WeApp;
+use Dash\Wxminiapp\WeApp;
   
 //创建一个小程序对象
 $weapp = new WeApp('appid','secret','.../缓存的路径/');
@@ -122,6 +122,3 @@ $res_array = $statistic->getUserFeature($date);
 ```
 ## 参考文档
 1. 微信小程序文档 https://mp.weixin.qq.com/debug/wxadoc/dev/api/
-
-## 关于
-如果有遇到什么问题，欢迎来邮。 kurobafear@hotmail.com

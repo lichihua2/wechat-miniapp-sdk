@@ -1,12 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Jiawei
- * Date: 2017/7/30
- * Time: 11:16
- */
 
-namespace JiaweiXS\WeApp\Api;
+namespace Dash\Wxminiapp\Api;
 
 
 class SessionKey extends BaseApi

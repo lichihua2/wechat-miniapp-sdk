@@ -1,11 +1,5 @@
 <?php
-/**
- * User: Jiawei
- * Date: 2017/7/29
- * Time: 10:06
- */
-
-namespace JiaweiXS\WeApp\Api;
+namespace Dash\Wxminiapp\Api;
 
 class ApiUrl{
 

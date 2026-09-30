@@ -1,12 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Jiawei
- * Date: 2017/7/29
- * Time: 20:53
- */
 
-namespace JiaweiXS\WeApp\Api;
+namespace Dash\Wxminiapp\Api;
 
 
 class Statistic extends BaseApi

@@ -1,20 +1,13 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Jiawei
- * Date: 2017/7/29
- * Time: 10:04
- */
-
-namespace JiaweiXS\WeApp;
+namespace Dash\Wxminiapp;
 
 
-use JiaweiXS\WeApp\Api\CustomMsg;
-use JiaweiXS\WeApp\Api\QRCode;
-use JiaweiXS\WeApp\Api\SessionKey;
-use JiaweiXS\WeApp\Api\Statistic;
-use JiaweiXS\WeApp\Api\TemplateMsg;
-use JiaweiXS\SimpleCache;
+use Dash\Wxminiapp\Api\CustomMsg;
+use Dash\Wxminiapp\Api\QRCode;
+use Dash\Wxminiapp\Api\SessionKey;
+use Dash\Wxminiapp\Api\Statistic;
+use Dash\Wxminiapp\Api\TemplateMsg;
+use Dash\Wxminiapp\Api\SimpleCache;
 
 class WeApp
 {
